@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873543809700",
+    "project_id": "appflutterhrm",
+    "storage_bucket": "appflutterhrm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873543809700:android:ce04961e0ec43367940431",
+        "android_client_info": {
+          "package_name": "com.mehdi.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwJWGOBJD-HIPuneJQd43CyWpQTcYi3Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
